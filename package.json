@@ -1,5 +1,5 @@
 {
-  "name": "angular-loggly-logger",
+  "name": "@benno_l/angular-loggly-logger",
   "version": "0.3.1",
   "main": "index.js",
   "description": "An AngularJs service and $log decorator for Loggly",
